@@ -163,9 +163,15 @@ Pocket operator manual for the PO-33
 > lit numbers have a sound/pattern, unlit are silent, flashing is the currently selected sound/pattern
 
 ### tweak parameter
-- tone (ton):   pitch                   volume
-- filter (Flt): high-/low-pass filter   resonance
-- trim (tri):   start point             lenght
+- tone (ton):
+  - A: pitch
+  - B: volume
+- filter (Flt):
+  - A: high-/low-pass filter
+  - B: resonance
+- trim (tri):
+  - A: start point
+  - B: lenght
 
 ### bpm levels
 - hip hop (80 bpm)
