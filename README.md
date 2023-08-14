@@ -15,13 +15,16 @@ Pocket operator manual for the PO-33
 ### sound/note
 - short piece of sound
 - pre-made notes or self-recorded sounds
-- can be used to build upon
 - can be played in different ways (1-16)
 
 ### sections
 - melodic (1-8) & drum (9-16)
 - melodic plays whole sound on a scale
 - drum plays slice of a sound (see tweak parameter 'trim')
+
+### step
+- one beat (bpm) in a pattern
+- makes a sound/note
 
 ### pattern
 - plays steps
@@ -54,18 +57,29 @@ Pocket operator manual for the PO-33
 
 # patterns
 
-### enter write mode
-- press write (·)
-
 ### select pattern
 - hold pattern (⠛) + number
 
+### enter/exit write mode
+- [select pattern]
+- press write (·)
+
 ### fill pattern
-- [enter write mode]
-- press numbers to mark sounds, press again to unmark
+- [enter/exit write mode]
+- press number of sound to add/remove somewhere
+- press numbers of steps where to add the sound, press again to remove (added steps with lit)
+- [enter/exit write mode]
+- repeat
+> for example:
+> - select pattern 3 (⠛+3)
+> - enter write mode (·)
+> - use sound 6 (6)
+> - use sound 6 for steps 1,5,9,13 (1,5,9,13)
+> - stop using it for steps 5,13 (5,13)
+> - exit write mode (·)
 
 ### play pattern
-- [select pattern] or [fill pattern]
+- [select pattern]
 - press play (>)
 
 
