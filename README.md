@@ -158,10 +158,14 @@ Pocket operator manual for the PO-33
 ### battery status
 - press sound (S) + bpm (handle)
 
+### active sounds/patterns
+- press sound (S) or pattern (⠛)
+> lit numbers have a sound/pattern, unlit are silent, flashing is the currently selected sound/pattern
+
 ### tweak parameter
-- tone:   pitch                   volume
-- filter: high-/low-pass filter   resonance
-- trim:   start point             lenght
+- tone (ton):   pitch                   volume
+- filter (Flt): high-/low-pass filter   resonance
+- trim (tri):   start point             lenght
 
 ### bpm levels
 - hip hop (80 bpm)
@@ -190,4 +194,5 @@ Pocket operator manual for the PO-33
 # open questions
 - what is a scale? (melodic plays whole sound on a _scale_)
 - which tweaks? are used to produce the different variants of the pre-made sounds?
-- what are the words/letters used in the top-right info section to explain the different tweak parameters?
+- what do the lit numbers mean when pressing bpm (handle)?
+- what does the selected tweak parameter do? (? or ! for tone or filter)
