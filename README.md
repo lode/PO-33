@@ -104,7 +104,7 @@ Pocket operator manual for the PO-33
 - [play pattern]
 - hold fx (FX) + number (1-15)
 
-### add & save affect in pattern (see effects)
+### add & save effect in pattern (see effects)
 - [enter write mode]
 - [play pattern]
 - hold fx (FX) + number (1-15)
