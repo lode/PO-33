@@ -8,6 +8,7 @@ Pocket operator manual for the PO-33
 - [tweaking](#tweaking)
 - [copy & delete](#copy--delete)
 - [reference](#reference)
+- [open questions](#open-questions)
 
 
 # definitions
@@ -184,3 +185,9 @@ Pocket operator manual for the PO-33
 14. retrigger pattern
 15. reverse
 16. no effect
+
+
+# open questions
+- what is a scale? (melodic plays whole sound on a _scale_)
+- which tweaks? are used to produce the different variants of the pre-made sounds?
+- what are the words/letters used in the top-right info section to explain the different tweak parameters?
